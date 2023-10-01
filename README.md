@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="300" src="https://cdn.pixabay.com/photo/2022/09/09/01/23/cartoon-7442135_960_720.png">
+<img align="center" alt="Coding" width="100%" height="300" src="https://cdn.pixabay.com/photo/2023/07/18/12/26/ai-8134691_960_720.jpg">
 
 <h1 align="center">Hi 👋, I'm Ali Hachhach 🇲🇦</h1>
 <h3 align="center">Java Backend Developer</h3>
